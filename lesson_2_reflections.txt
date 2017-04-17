@@ -11,3 +11,11 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 	By comparing the files in the staging area with the one included in the last commit.
 	
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+	When developping new features within a program or an app. To keep a version of
+	the code which works well and can be distrubuted, while new fonctionalities are
+	being tested and developped. Furthermore, if a user detects a bug in the version 
+	distributed, we can easily go back to the code and look to debugg it without 
+	altering the other version.
