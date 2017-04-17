@@ -1,0 +1,51 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It helped focusing on the area which were different between the two versions
+    of the file. And the line by line (or block by block) comparison helped spotting
+    typo on KEY_STATUS.spacr which should be written KEY_STATUS.space.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Easier to debug code looking for logical errores when adding new fonctionnalities
+    to a program. 
+
+    When several version of the code have been released, versionning is
+    also key to debug the same code as the version of the program used by the 
+    user/client.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Cons: Allows human error, starting with forgetting to create a comiit when 
+    relevant.
+
+    Pros: Creating a commit is a judgement call which are better suited to humans 
+    than machine.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Coding often involve the use of several files (resources, ui, scripts, ...) 
+    hence the need to save several files in VCS such as Git, i.e. dedicated to coding.
+    Other VCS such Google Docs are more related to office type of docs whereby most of
+    the time only one file is involved (xls, doc, ppt...).
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log allows to see all the commits while git diff allows to see the specific 
+    changes made to the code between two commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It allows to save a bug free version of the code and restore it later on if new
+    developments doesn't really improve the code or introduce bugs starting with 
+    logical errors.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    My primary use of Git will be to monitor and track different version of Android
+    apps to be developped under Android Studio.
