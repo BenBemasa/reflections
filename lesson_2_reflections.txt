@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	A hidden folder .git is created which will store the information related to the 
+	repository and the commits. It is needed to create the .gilt folder.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	It allows a better control on the changes we want to be committed. 
+
