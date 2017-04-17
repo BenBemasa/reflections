@@ -24,3 +24,12 @@ How do the diagrams help you visualize the branch structure?
 
 	By showing the various branches and their respective commit under a tree graph.
 	
+What is the result of merging two branches together? Why do we represent it in the
+diagram the way we do?
+
+	The two branches are then forming only one moving forward. The cumulative changes 
+	are therefore save into a new single commit. 
+
+	To show that there were at some point in the history of the code two different 
+	branches that are now making only one single branch
+	.
