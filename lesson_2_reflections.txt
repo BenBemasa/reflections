@@ -19,3 +19,8 @@ organized? How would branches help?
 	being tested and developped. Furthermore, if a user detects a bug in the version 
 	distributed, we can easily go back to the code and look to debugg it without 
 	altering the other version.
+
+How do the diagrams help you visualize the branch structure?
+
+	By showing the various branches and their respective commit under a tree graph.
+	
