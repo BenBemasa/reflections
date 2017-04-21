@@ -31,5 +31,12 @@ diagram the way we do?
 	are therefore save into a new single commit. 
 
 	To show that there were at some point in the history of the code two different 
-	branches that are now making only one single branch
-	.
+	branches that are now making only one single branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Pros of automatic merging: saving time when no conflict arise from merging.
+
+	Pros of merging manually: better management of conflicts.
+
+	
