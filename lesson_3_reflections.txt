@@ -17,17 +17,22 @@ use one instead of another?
 
     - Clone: makes a local copy of a repository on GitHub.
 
-    - Branches: zllows to explore different variation of a runing verison of the code. Can be used to expiriment new functionalities or to optimized the code. However, requires you have been granted the authorizaiton to update the current code (not necessarilly the case for "fork").
+    - Branches: zllows to explore different variation of a runing verison of the code. 
+    Can be used to expiriment new functionalities or to optimized the code. However, 
+    requires you have been granted the authorizaiton to update the current code (not 
+    necessarilly the case for "fork").
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It allows to track whether some chqnges hqve been mqde to the repositary while 
+    working offline. This copy helps identifying conflict when a file is pulled from 
+    GitHub.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+     Fill in your answer here
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
